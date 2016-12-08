@@ -7,6 +7,6 @@ I will start filling up this section with different courses, tutorials, etc. tha
 
 1. Python
 2. R
-3. SCALA
+3. Scala
 4. SQL 
 
